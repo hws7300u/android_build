@@ -74,6 +74,7 @@ GRANDFATHERED_ALL_PREBUILT := \
 	mdm_panicd \
 	monkey \
 	pm \
+	dbus.conf \
 	pppd-ril \
 	pppd-ril.options \
 	proc \

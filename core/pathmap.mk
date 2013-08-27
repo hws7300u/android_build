@@ -56,6 +56,7 @@ pathmap_INCL := \
     audio-route:system/media/audio_route/include \
     wilhelm:frameworks/wilhelm/include \
     wilhelm-ut:frameworks/wilhelm/src/ut \
+    dbus:external/dbus \
     speex:external/speex/include
 
 #
